@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hackathon/static/css/main.0198399f.css",
+    "main.js": "/hackathon/static/js/main.4bac8a2c.js",
+    "static/media/section3.png": "/hackathon/static/media/section3.dd0731d9b7188a889120.png",
+    "static/media/sec01background.jpg": "/hackathon/static/media/sec01background.4d174b1de9becd8a2218.jpg",
+    "static/media/sentinelnetIcon.png": "/hackathon/static/media/sentinelnetIcon.8ff5b51e1a04070d5d6c.png",
+    "static/media/sec02background.jpg": "/hackathon/static/media/sec02background.4100f41d35eb8080eefe.jpg",
+    "static/media/lastsection.jpg": "/hackathon/static/media/lastsection.ad715e22e15eb8495702.jpg",
+    "static/media/spikething.png": "/hackathon/static/media/spikething.386fca18952cdd304f1c.png",
+    "static/media/table2.png": "/hackathon/static/media/table2.a263b1fc0fb2090e90ab.png",
+    "static/media/magGlass.png": "/hackathon/static/media/magGlass.240b0475f13d30bd98e1.png",
+    "static/media/table1.png": "/hackathon/static/media/table1.60b5c6408a0abf040326.png",
+    "index.html": "/hackathon/index.html",
+    "main.0198399f.css.map": "/hackathon/static/css/main.0198399f.css.map",
+    "main.4bac8a2c.js.map": "/hackathon/static/js/main.4bac8a2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0198399f.css",
+    "static/js/main.4bac8a2c.js"
+  ]
+}
