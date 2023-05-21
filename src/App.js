@@ -2,9 +2,8 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import Home from "./Home";
 import NavBar from "./NavBar";
-import Mint from "./Mint";
 import MainMint from "./MainMint";
-import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   /* const [accounts, setAccounts] = useState([]); */ // Update/Changes
